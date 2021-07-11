@@ -6,7 +6,6 @@ There is https://polygongasstation.com/ but it doesn't auto-refresh.
 
 ## TODO
 
-* Display gas prices
-* Display block number
+* Change sleep time according to blockTime
 * Add a countdown animation to show when the next refresh will be
 
